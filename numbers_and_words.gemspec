@@ -40,6 +40,7 @@ Gem::Specification.new do |s|
     "lib/numbers_and_words/i18n/locales/numbers.lt.yml",
     "lib/numbers_and_words/i18n/locales/numbers.lv.yml",
     "lib/numbers_and_words/i18n/locales/numbers.nl.yml",
+    "lib/numbers_and_words/i18n/locales/numbers.pl.yml",
     "lib/numbers_and_words/i18n/locales/numbers.pt.yml",
     "lib/numbers_and_words/i18n/locales/numbers.ru.yml",
     "lib/numbers_and_words/i18n/locales/numbers.se.yml",
